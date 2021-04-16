@@ -39,7 +39,7 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'A biological organism that has undergone a long development from programming an alarm clock through the VPN function in Excel to the ASP.NET MVC5 exam.'}
+                    'A biological organism that has undergone a long development from programming an alarm clock through the vlook function in Excel to the ASP.NET MVC5 exam.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
@@ -47,7 +47,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
-                    'An expert in the development of budgets of any size in the shortest possible time.'}
+                    'An expert in the spending of budgets of any size in the shortest possible time.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
