@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Web Developer',
   name: 'Maksim Kramer',
-  subtitle: 'Web Developer',
+  subtitle: 'Give me a job, please!',
   cta: '',
 };
 
@@ -53,7 +53,7 @@ export const projectsData = [
     info:
       'A long time ago, in another galaxy, I made a small contribution to the creation of interactive elements of one of the divisions of the Higher School of Economics',
     info2: '',
-    url: '',
+    url: 'https://issek.hse.ru/',
     repo: 'https://issek.hse.ru/', // if no repo, the button will not show up
   },
 ];
